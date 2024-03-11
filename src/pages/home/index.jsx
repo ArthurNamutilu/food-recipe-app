@@ -14,7 +14,7 @@ const Home = () => {
       ) : (
         <div>
           <p className="lg:text-4xl text-xl text-center text-black font-extrabold ">
-            Nothing to show. Please search again
+            Dive into our recipe collection by starting your search
           </p>
         </div>
       )}
